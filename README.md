@@ -10,15 +10,16 @@ The printer is entirely self sourced. A few of the parts are repurposed from ano
  - LDO 42STH48-2504AC Speedy Power for XY
  - Siboor 42STH26-0804A-200 (TR8x8) for Z
  - LDO 36STH20-1004AHG for hotend
+ - Fysetc metal bed frame
  - LDO Polyimide buildplate
  - CNA (RDBB) Z1 rails
- - Lian Li Da LRS-350-24 power supply (repurposed from a Creality Ender 5 Pro)
- - Self printed parts
+ - Mornsun LMF200-23B24 power supply
+ - Self printed parts (LDO ABS and LDO ASA)
  - Haldis Red Lizard hotend (Dragon clone)
  - Energetic PEI Pro printing surface
  - GDSTime fans
  - Gates GT2 belts
- - Powge idlers and pulleys
+ - Mellow pulleys
  - Fushi blue F623RS bearings
 
 
