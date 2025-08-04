@@ -1,5 +1,5 @@
 # V0.2
-This is the Klipper config of my Voron V0.2 printer. Building is currently underway... The base of the config is the stock Voron Trident config.
+This is the Klipper config of my Voron V0.2 printer. Building is currently underway...
 
 The printer is entirely self sourced. A few of the parts are repurposed from another printer that was torn down.
 
@@ -9,9 +9,7 @@ The printer is entirely self sourced. A few of the parts are repurposed from ano
  - LDO frame
  - LDO 42STH48-2504AC Speedy Power for XY
  - Siboor 42STH26-0804A-200 (TR8x8) for Z
- - LDO 36STH20-1004AHG for hotend
- - Fysetc metal bed frame
- - LDO Polyimide buildplate
+ - LDO 36STH20-1004AHG for hotend (part of TriangleLabs Sherpa Mini extruder)
  - CNA (RDBB) Z1 rails
  - Mornsun LMF200-23B24 power supply
  - Self printed parts (LDO ABS and LDO ASA)
@@ -24,4 +22,11 @@ The printer is entirely self sourced. A few of the parts are repurposed from ano
 
 
 ## Mods
- - ?
+ - Fysetc metal bed frame
+ - LDO Polyimide buildplate
+ - NEMA17 steppers for XY
+ - Umbilical and CAN bus with EBB36
+ - CNC hotend carriage
+ - Dragon Burner hotend
+ - Endstops on all 3 axes
+ - BTT TFT35 display
