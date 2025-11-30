@@ -1,4 +1,4 @@
-# Voron V0.2
+# Voron V0.2 (V0.4240)
 This is the Klipper config of my Voron V0.2 printer. Building is ~currently underway...~ finished, calibrating and tuning is in progress!
 
 The printer is entirely self sourced. A few of the parts are repurposed from another printer that was torn down.
