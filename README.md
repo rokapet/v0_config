@@ -56,3 +56,4 @@ The printer is entirely self sourced. A few of the parts are repurposed from ano
    - [FT EMS V0.2 Rear Panel](https://www.printables.com/model/558237-ft-ems-v02-rear-panel) (for 80mm fan)
    - [Voron V0 Stealth Handles](https://www.printables.com/model/481575-voron-v0-stealth-handles)
    - [Voron 0.2 Stealth Door Latch](https://www.printables.com/model/832591-voron-02-stealth-door-latch) (I absolutely love the design! Do NOT use N52 magnets!)
+   - [Voron V0.2 chamber thermistor mount](https://www.printables.com/model/499851-voron-v02-chamber-thermistor-mount)
